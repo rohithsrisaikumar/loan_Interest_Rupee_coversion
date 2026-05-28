@@ -31,4 +31,4 @@ This tool calculates:
 
 1. Clone this repository or download the source code:
 ```bash
-   git clone [https://github.com/YOUR_USERNAME/loan-calculator.git](https://github.com/YOUR_USERNAME/loan-calculator.git)
+   https://github.com/rohithsrisaikumar/loan_Interest_Rupee_coversion.git
